@@ -2,7 +2,7 @@
     <img height="350" alt="OffensiveD" src="assets/offensived.png">
 </p>
 
-# OffensiveD
+# Offensive D
 
 D programming language (dlang) weaponisation for offensive security.
 
