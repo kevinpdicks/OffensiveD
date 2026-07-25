@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="200" alt="OffensiveD" src="assets/offensive-d-logo.png/assets/offensived.png">
+    <img height="350" alt="OffensiveD" src="assets/offensived.png">
 </p>
 
 # OffensiveD
