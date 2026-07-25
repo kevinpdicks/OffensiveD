@@ -9,7 +9,7 @@ D programming language (dlang) weaponisation for offensive security.
 The purpose of this project is to do some experiments with [D](https://dlang.org/) (dlang), and to explore the possibility of using it for implant development and general offensive operations. It is inspired by [@byt3bl33d3r](https://twitter.com/byt3bl33d3r)'s project "[OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)" and [darkr4y](https://github.com/darkr4y)'s "[OffensiveZig](https://github.com/darkr4y/OffensiveZig)".
 
 ## Table of Contents
-- [OffensiveD](#offensived)
+- [Offensive D](#offensived)
   - [Table of Contents](#table-of-contents)
   - [Why D?](#why-d)
   - [Try to Learn D in Y minutes](#try-to-learn-d-in-y-minutes)
