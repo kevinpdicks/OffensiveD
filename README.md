@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="300" alt="OffensiveD" src="https://dlang.org/images/dlogo.svg">
+    <img height="200" alt="OffensiveD" src="https://dlang.org/images/dlogo_opengraph.png">
 </p>
 
 # OffensiveD
